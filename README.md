@@ -8,4 +8,3 @@ Login and Authentication: Registered users can log in securely using their usern
 Password Reset:Users can reset their passwords in case they forget them.
 Account Operations: Users can perform various account operations, including checking balance, depositing money, and withdrawing money.
 Credit Card Eligibility: Users can check their eligibility for a credit card based on their income and account balance.
-
